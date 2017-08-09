@@ -7,3 +7,6 @@ drwxrwxr-x 8 zhao zhao 4096 Aug  9 16:50 .git/
 abc.txt
 main.c
 README.md
+abc.txt
+main.c
+README.md
